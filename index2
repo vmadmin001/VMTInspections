@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SCHEDULE 1 — VM Trucking Academy 2024</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; line-height: 1.6; }
+        h1, h2 { text-align: center; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #333; padding: 8px; vertical-align: top; }
+        th { background-color: #f0f0f0; }
+        audio { width: 100%; }
+    </style>
+</head>
+<body>
+    <h1>SCHEDULE 1 — National Safety Code Standard 13</h1>
+    <h2>DAILY INSPECTION OF TRUCKS, TRACTORS AND TRAILERS</h2>
+    <p><strong>Note:</strong> This document lists the components to be inspected, along with minor and major defect definitions.</p>
+
+    <table>
+        <tr>
+            <th>Systems and Components</th>
+            <th>Minor Defects</th>
+            <th>Major Defects</th>
+        </tr>
+        <tr>
+            <td><u><b>1. Air Brake System</b></u></td>
+            <td> </td>
+			<td> </td>
+         </tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A. Low Air</b>
+        <audio controls>
+            <source src="audio/Lowair.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>A. No Minor Defect
+	<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+
+    <td>A. Low air warning system fails or system is activated
+        <audio controls>
+            <source src="audio/Lowairmajor.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>B. Pressure Build-up.</b>
+        <audio controls>
+            <source src="audio/Pressureb.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>B. slow air pressure build-up rate.
+        <audio controls>
+            <source src="audio/Pressurebminor.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>B. No Major Defect
+	    <audio controls>
+            <source src="audio/Nomajor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+</tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C. Air Loss/Leak</b>
+        <audio controls>
+            <source src="audio/Airloss.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>C. Audible air leak.
+        <audio controls>
+            <source src="audio/Airlossminor.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>C. Air loss rate exceeds prescribed limit.
+        <audio controls>
+            <source src="audio/Airlossmajor.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>D. Protection Valve</b>
+        <audio controls>
+            <source src="audio/Protection.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>D. No Minor Defect
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>D. Inoperative towing vehicle (tractor) protection system.
+        <audio controls>
+            <source src="audio/Protectionmajor.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>E. Pushrod</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>E. No Minor Defect.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>
+        E1. Inoperative service, parking or emergency brake.<br>
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+        E2. Pushrod stroke of any brake exceeds the adjustment limit.
+        <audio controls>
+            <source src="audio/Pushrodmajor2of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!DELETE AAFTER CHAING AUDI PATHS>
+
+<!2.CAB>          
+<tr>
+    <td><u><b>2. Cab</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Occupant compartment door fails to open.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Any cab or sleeper door fails to close securely.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!3.cargo securement>   
+<tr>
+    <td><s><b><u>3. Cargo Securement</u></b></s></td>
+    <td><s>Insecure or improper load covering.</s></td>
+	<td><s>(I) Insecure cargo.</s><br>
+        <s>(II) Absence, failure, malfunction or deterioration of required cargo
+           securement device or load covering</s>
+	</td>
+</tr>
+
+<!4.COUPLING DEVICES>
+<tr>
+    <td><u><b>4. Coupling Devices</b></u></td>
+    <td> </td>
+	<td> </td>
+</tr>
+<!4a.COUPLING DEVICES:FRAM/FASTNER>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A) Frame/ Fastener</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Coupler or mounting has loose or missing fastener
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<!4b.COUPLING DEVICES:FREE PLAY>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>B. Free Play</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defects
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupler is insecure or movement exceeds prescribed limit
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+<!4c.COUPLING DEVICES:LOCKS>              
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C) Locks</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defect
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupling or locking mechanism is damaged or fails to lock.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio><br>
+		Defective, incorrect or missing safety chain or cable.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+		
+    </td>
+</tr>
+
+<!5.Dangerous goods>   
+<tr>
+    <td><u><s><b>5. Dangerous Goods</b></s></u></td>
+    <td><s>No Minor Defect</s></td>
+    <td><s>Dangerous goods requirements not met.</s></td>
+</tr>
+
+<!6.driver controls>   
+<tr>
+    <td><u><b>6. Driver Controls</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Accelerator pedal, clutch, gauges, audible and visual indicators or instruments fail to function properly.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!7.Driver seat & belt>   
+<tr>
+    <td><u><b>7. Driver Seat & Belt</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Seat is damaged or fails to remain in set position.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Seatbelt or tether belt is insecure, missing or malfunctions.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!8.Electric brake system>   
+<tr>
+    <td><u><s><b>8. Electric Brake System</b></s></u></td>
+    <td><s>Loose or insecure wiring or electrical connection.</s></td>
+    <td><s>Inoperative breakaway device &amp; Inoperative Brake</s></td>
+</tr>
+
+<!9.Emerg equip>   
+<tr>
+    <td><u><b>9. Emergency Equipment &amp; Safety Devices</b><u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Emergency equipment is missing, damaged or defective.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!10.Exhaust system>   
+<tr>
+    <td><u><b>10. Exhaust System</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Exhaust leak, except as described in Column 3.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Leak that causes exhaust gas to enter the occupant compartment.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!11.frame&cargo>   
+<tr>
+    <td><u><b>11. Frame &amp; Cargo Body</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Damaged frame or cargo body
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>visibly shifted, cracked, collapsing or sagging frame member
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!12.fuelsystem>   
+<tr>
+    <td><b><u>12. Fuel System</u><b/>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Minor
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Major
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!13.general>   
+<tr>
+    <td><u><b>13. General</b><u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defect
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Serious damage or deterioration that is noticeable and may affect the vehicle's safe operation
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+
+<!14.GLASS&MIRROR>   
+<tr>
+    <td><u><b>14. Glass &amp; Mirrors</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>(I) Required mirror or window glass fails to provide the required view to the driver as a result of being cracked, broken, damaged, missing or maladjusted.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio><br>
+	<br>(II) Required mirror or glass has broken or damaged attachments onto vehicle body.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+
+<!15.HEATER/DEFROSTER>   
+<tr>
+    <td><u><b>15. Heater / Defroster</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Control or system failure
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Defroster fails to provide unobstructed view through the windshield.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!16.HORN>   
+<tr>
+    <td><u><b>16. Horn</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Vehicle has no operative horn.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+
+<!17.HYDRALICBRAKESYSTEM>   
+<tr>
+    <td><u><s><b>17. Hydraulic Brake System</b></s></u></td>
+    <td><s>Insecure or improper load covering.</s></td>
+    <td><s>
+		(I) Brake boost or power assist is not operative.<br>
+		(II) Brake fluid leak.<br>
+		(III) Brake pedal fade or insufficient brake pedal reserve.<br>
+		(IIII) Activated (other than ABS) warning device.<br>
+		(V) Brake fluid reservoir is less than quarter full.<br>
+		(VI) Parking brake is inoperative</s>
+    </td>
+</tr>
+
+<!18.LAMP&REFLECTORS>   
+<tr>
+    <td><u><b>18. Lamps &amp; Reflectors</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+	
+    <td>(I) Required lamp does not function as  intended
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio><br>
+		
+	<br>(II) required reflector is missing or partially missing
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+
+	</td>
+	
+    <td><i>When use of lamps is required:</i>
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+	<br>-Failure of both low-beam headlamps.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+    <br>-Failure of both rearmost tail lamps.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio><br>
+	<br><i>At all times:</i>
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	<br>-Failure of a rearmost turn-indicator lamp.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	<br>-Failure of both rearmost brake lamps.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	
+	</td>
+</tr>
+
+<!19.STEERING>   
+<tr>
+    <td><u><b>19. Steering</b></u>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Steering wheel lash/free-play is greater than normal.
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>(I) steering wheel is insecure, or does not respond normally.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+	<br>(II) steering wheel lash (free-play) exceeds prescribed limit.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio><br>
+    </td>
+</tr>
+
+<!20.SUSPENSION SYSTEM>   
+<tr>
+    <td><u><b>20.SUSPENSION SYSTEM</b></u></td>
+    <td> </td>
+	<td> </td>
+</tr>
+<!20a.SUSPENSION SYSTEM>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A) Frame/ Fastener</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Coupler or mounting has loose or missing fastener
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<!20b.SUSPENSION SYSTEM>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>B. Free Play</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defects
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupler is insecure or movement exceeds prescribed limit
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+<!20c.SUSPENSION SYSTEM>              
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C) Locks</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defect
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupling or locking mechanism is damaged or fails to lock.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio><br>
+		Defective, incorrect or missing safety chain or cable.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+		
+    </td>
+</tr>
+
+<!21.TIRES>   
+<tr>
+    <td><u><b>21.Tires</b></u></td>
+    <td> </td>
+	<td> </td>
+</tr>
+<!21a.Leak>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A) Frame/ Fastener</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Coupler or mounting has loose or missing fastener
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<!21b.Tread & Damage>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>B. Free Play</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defects
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupler is insecure or movement exceeds prescribed limit
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+
+
+<!22.WHEELS,HUB&FASTNERS>   
+  
+<tr>
+    <td><u><b>22.WHEELS,HUB & FASTNERS</b></u></td>
+    <td> </td>
+	<td> </td>
+</tr>
+<!22a.WHEELS,HUB & FASTNERS>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A) Frame/ Fastener</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Coupler or mounting has loose or missing fastener
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>No Major Defect
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr>
+<!22b.WHEELS,HUB & FASTNERS>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>B. Free Play</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defects
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupler is insecure or movement exceeds prescribed limit
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+
+<!22c.WHEELS,HUB & FASTNERS>              
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C) Locks</b>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>No Minor Defect
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Coupling or locking mechanism is damaged or fails to lock.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio><br>
+		Defective, incorrect or missing safety chain or cable.
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+		
+    </td>
+</tr>
+     
+<!23.Windshield Wiper/Washer>   
+<tr>
+    <td><u><b>22.WHEELS,HUB & FASTNERS</b></u></td>
+        <audio controls>
+            <source src="audio/Pushrod.mp3" type="audio/mp3">
+        </audio>
+    </td>
+    <td>Minor
+		<audio controls>
+            <source src="audio/Nominor.mp3" type="audio/mp3">
+        </audio>
+	</td>
+    <td>Major
+		<audio controls>
+            <source src="audio/Pushrodmajor1of2.mp3" type="audio/mp3">
+        </audio>
+    </td>
+</tr> 
+        <!-- Additional rows can be added similarly -->
+    </table>
+
+    <p>© 2024 VM Trucking Academy</p>
+</body>
+</html>
